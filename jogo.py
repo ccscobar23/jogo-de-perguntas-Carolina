@@ -23,3 +23,19 @@ if banda == "Legião Urbana" or banda == "legião urbana" or banda == "Legiao Ur
     print("Ótimo, você acertou!")
 else:
         print("Não foi dessa vez!")
+        
+#3 pergunta
+cantor = input("Quem escreveu a música 'Oceano'?")
+
+if cantor == "Djavan" or cantor == "djavan":
+    print("Exatamente, a resposta está correta!")
+else:
+        print("Não foi dessa vez!")
+        
+#4 pergunta
+cidade = input("De qual cidade é a banda Charlie Brown Jr?")
+
+if cidade == "Santos" or cidade == "santos":
+    print("Parabéns, você está indo muito bem!")
+else:
+        print("Não foi dessa vez!")
